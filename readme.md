@@ -65,7 +65,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 Enjoy creating your own mathematical flowers! 🌸✨
 
-For any questions or suggestions, feel free to contact me at [your-email@example.com].
+For any questions or suggestions, feel free to submit a comment.
 
 Happy coding! 🌼🌺🌻
 
