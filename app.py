@@ -15,7 +15,7 @@ pause_icon_path = os.path.join(script_dir, 'pause_icon.png')
 class GraphPlotterApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Graph Plotter")
+        self.root.title("Hyperbolic Mindfuck")
         self.root.geometry("1400x900")
         
         self.track_values = {
